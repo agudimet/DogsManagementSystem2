@@ -1,0 +1,6 @@
+com\gudimetlaClasses\DMS\DogManagementSystemApplication.class
+com\gudimetlaClasses\DMS\Controller\DogController.class
+com\gudimetlaClasses\DMS\Models\Dog.class
+com\gudimetlaClasses\DMS\DMSrepository\TrainerRepository.class
+com\gudimetlaClasses\DMS\DMSrepository\DogRepository.class
+com\gudimetlaClasses\DMS\Models\Trainer.class
